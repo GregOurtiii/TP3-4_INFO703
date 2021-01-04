@@ -1,5 +1,5 @@
 
-#Clerc Gregory Nour Mouhammad
+# Nour Mouhammad et Clerc Gregory
 
 
 
@@ -7,8 +7,7 @@
 ```
 1+1;
 1+5.
-```
-```
+
 >>>
 
 (; (+ 1 1)  (+ 1 5) )
@@ -236,14 +235,13 @@ mem:65524: 5
 
 
 
-## example 2 :
+## exemple 2 :
 
 ```
 let a = 2;
 let b = 2 + a ;
 b.
-```
-```
+
 >>>
 
 (; (let a  2 )  (; (let b  (+ 2  a ) )  b ) )
